@@ -4,3 +4,4 @@ scikit-learn==1.2.2
 scikit-image==0.20.0
 matplotlib==3.7.1
 tqdm==4.65.0
+pip install -r requirements.txt
